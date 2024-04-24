@@ -1,5 +1,5 @@
- const h2=document.querySelector('h2')
- function tossbtn(index){
+const h2=document.querySelector('h2')
+function tossbtn(index){
 var x=Math.ceil(Math.random()*2)
 console.log(x)
 if(x === 1){
